@@ -1,0 +1,8 @@
+{
+  "app_name": "PPC by Advonomics",
+  "default_language": "en",
+  "available_languages": ["en"],
+  "latest_chapter": 23,
+  "enable_commentary": true,
+  "enable_illustrations": true
+}

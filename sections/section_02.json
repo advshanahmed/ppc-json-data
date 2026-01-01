@@ -1,0 +1,39 @@
+{
+  "chapter": 1,
+  "chapter_title": "Introduction",
+  "section": "2",
+  "title": "Punishment of offences committed within Pakistan",
+  "text": "Every person shall be liable to punishment under this Code and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within Pakistan.",
+  "illustration": [
+    "A commits theft in Karachi. He is liable to punishment under the Pakistan Penal Code.",
+    "B commits assault in Lahore. The offence is punishable under the Pakistan Penal Code as it was committed within Pakistan."
+  ],
+  "commentary": {
+    "Overview": "Section 2 lays down the fundamental rule of territorial criminal jurisdiction. It provides that all offences committed within Pakistan are punishable under the Pakistan Penal Code.",
+    "Territorial Application": {
+      "Explanation": "The section applies to acts or omissions committed within the territorial limits of Pakistan.",
+      "Scope": "It covers all provinces, territories, and areas subject to Pakistan’s sovereignty."
+    },
+    "Act or Omission": {
+      "Explanation": "Liability arises not only from positive acts but also from illegal omissions where there is a legal duty to act.",
+      "Connection": "This must be read with Sections 32 and 33, which explain acts and omissions."
+    },
+    "Exclusivity of the Code": {
+      "Explanation": "The phrase 'and not otherwise' signifies that punishment must be imposed strictly according to the provisions of the Pakistan Penal Code.",
+      "Legal Effect": "No person can be punished for an offence within Pakistan except under a law in force."
+    },
+    "Persons Covered": {
+      "Explanation": "The term 'every person' includes citizens and non-citizens alike.",
+      "Result": "Foreign nationals committing offences within Pakistan are equally liable under the PPC."
+    },
+    "Relation with Other Sections": {
+      "Section 1": "Establishes the name and extent of the Code.",
+      "Section 3 and 4": "Deal with offences committed outside Pakistan but triable under Pakistani law."
+    },
+    "Practical Significance": {
+      "Courts": "Criminal courts apply PPC for offences committed within Pakistan.",
+      "Law Enforcement": "FIRs are registered under PPC sections due to this territorial rule."
+    },
+    "Exam Note": "Section 2 is frequently cited to explain the principle of territorial jurisdiction in criminal law."
+  }
+}

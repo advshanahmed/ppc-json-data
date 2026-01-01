@@ -1,0 +1,31 @@
+{
+  "chapter": 1,
+  "chapter_title": "Introduction",
+  "section": "1",
+  "title": "Title and extent of operation of the Code",
+  "text": "This Act shall be called the Pakistan Penal Code, and shall extend to the whole of Pakistan.",
+  "illustration": [
+    "An offence committed in any province or territory of Pakistan is governed by the Pakistan Penal Code.",
+    "Courts in Pakistan apply the Pakistan Penal Code uniformly throughout the country."
+  ],
+  "commentary": {
+    "Overview": "Section 1 introduces the name and territorial extent of the Pakistan Penal Code. It establishes the legal identity of the Code and clarifies where it applies.",
+    "Title of the Code": {
+      "Explanation": "The statute is officially named the Pakistan Penal Code. All criminal liability and offences defined under it are referred to by this title.",
+      "Importance": "The title is used in judgments, charge sheets, FIRs, and legal drafting."
+    },
+    "Extent of Operation": {
+      "Explanation": "The Code extends to the whole of Pakistan, meaning it applies uniformly across all provinces, territories, and areas under Pakistan’s jurisdiction.",
+      "Legal Effect": "Any offence committed within Pakistan is subject to the provisions of this Code unless specifically excluded by law."
+    },
+    "Relation with Other Sections": {
+      "Section 2": "Explains punishment of offences committed within Pakistan.",
+      "Section 3 and 4": "Deal with offences committed beyond Pakistan but triable under Pakistani law."
+    },
+    "Practical Significance": {
+      "Courts": "All criminal courts in Pakistan derive substantive criminal law from the PPC.",
+      "Law Enforcement": "Police register cases under PPC sections because of its nationwide applicability."
+    },
+    "Exam Note": "Section 1 is introductory but often cited to explain the territorial application of criminal law in Pakistan."
+  }
+}
