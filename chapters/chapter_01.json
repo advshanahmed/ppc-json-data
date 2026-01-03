@@ -3,24 +3,12 @@
   "chapter_title": "Introduction",
   "sections": [
     {
-      "section": "1",
+      "section": 1,
       "title": "Title and extent of operation of the Code"
     },
     {
-      "section": "2",
+      "section": 2,
       "title": "Punishment of offences committed within Pakistan"
-    },
-    {
-      "section": "3",
-      "title": "Punishment of offences committed beyond, but which by law may be tried within, Pakistan"
-    },
-    {
-      "section": "4",
-      "title": "Extension of Code to extra-territorial offences"
-    },
-    {
-      "section": "5",
-      "title": "Certain laws not to be affected by this Act"
     }
   ]
 }
